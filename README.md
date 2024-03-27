@@ -8,9 +8,9 @@
         How well those variables describe the price of a house.
 
 ## Table of Contents
-* [Bussiness Goal](#Bussiness Goal)
-* [Technologies Used](#technologies-used)
+* [Bussiness Goal](#bussiness-goal)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
 
 
 
